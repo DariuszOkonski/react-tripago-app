@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Freehand&family=Lato:wght@100;300;400;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -6,12 +9,10 @@
 
 body {
   position: relative;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Lato, Arial, Helvetica, sans-serif;
   font-size: 16px;
   width: 100%;
   min-height: 100vh;
-
-
   background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),  url("https://cdn.pixabay.com/photo/2015/05/08/23/36/the-ruins-of-the-759068_960_720.jpg");
   background-repeat: no-repeat;
   background-position: center;
