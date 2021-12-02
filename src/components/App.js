@@ -1,12 +1,10 @@
 import '../assets/css/App.css';
-import SimpleBottomNabigation from './SimpleBottomNavigation.js';
 
 function App() {
   return (
     <div className="App">
 
-    <SimpleBottomNabigation />
-
+      <h1>Working</h1>
 
     </div>
   );
