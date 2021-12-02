@@ -81,12 +81,12 @@
       "image": "https://cdn.pixabay.com/photo/2016/11/21/17/34/las-vegas-1846684_960_720.jpg"
     },
     {
-      "id": 1,
-      "title": "4 nights in Poland, happy week",
-      "price": "£212.5",
-      "description": "Quisque a vulputate lectus. Curabitur dictum tempus dui. Suspendisse aliquet finibus orci, eu congue justo auctor sit amet. Ut efficitur lorem eros, quis accumsan lacus dignissim vitae. Donec vehicula posuere pulvinar. In in lacinia velit. Suspendisse sed consectetur est. Mauris volutpat ligula et libero tempor, in iaculis sem viverra. Maecenas eget tincidunt odio. Aliquam condimentum ex in malesuada rutrum. Vivamus ac nibh odio.",
+      "title": "4 nights in Poland",
+      "price": 111,
       "location": "europa",
-      "image": "https://cdn.pixabay.com/photo/2020/02/16/21/07/krakow-4854806_960_720.jpg"      
+      "description": "Nullam neque nisi, aliquet a diam ut, consectetur fringilla augue. Maecenas tincidunt porta lacus, nec commodo justo gravida at. Nulla vel pellentesque mi. Aliquam sed urna varius eros mattis laoreet. Nullam accumsan porta luctus. Nulla rhoncus tincidunt dictum. Mauris quis semper enim, eget molestie leo. Phasellus ut facilisis nisi. Nunc mattis aliquet vestibulum. Vestibulum viverra sem sapien, ac sollicitudin odio pulvinar ac. Phasellus dignissim accumsan quam, vitae commodo dolor aliquam sed. Donec vitae tempus urna. Phasellus eget metus cursus, commodo dolor eu, dictum risus. Curabitur et eros eu turpis placerat condimentum. Cras magna ligula, scelerisque id fermentum et, venenatis in nibh. Praesent libero mauris, tincidunt feugiat elit nec, luctus ultrices eros.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/21/17/34/las-vegas-1846684_960_720.jpg",
+      "id": 1
     }
   ]
 }
