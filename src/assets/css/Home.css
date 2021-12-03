@@ -1,0 +1,63 @@
+.home {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home_container {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+    padding: 2rem 0;
+    color: #fff;
+}
+
+.home__header {
+    font-size: 3.4rem;
+    font-family: 'Freehand', cursive;
+    letter-spacing: 0.2rem;
+}
+
+.home_paragraph {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.home_quotes {
+    display: block;
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    font-weight: 300;
+}
+
+.home_author {
+    display: block;
+    text-align: right;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 425px) {
+    .home__header {
+        font-size: 2.2rem;
+        letter-spacing: 0rem;
+    }
+
+    .home_quotes {
+        font-size: 1.4rem;
+        letter-spacing: 0rem;
+        font-weight: 300;
+    }
+}
+
+@media (max-width: 375px) {
+    .home__header {
+        font-size: 2rem;
+        letter-spacing: 0rem;
+    }
+}
+
