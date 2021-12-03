@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter,  Routes ,Route } from 'react-router-dom';
 import '../assets/css/App.css';
+import { AllHolidays } from './AllHolidays';
 import { Home } from './Home';
 import { Navbar } from './Navbar';
 
@@ -12,12 +13,13 @@ function App() {
 
         <Routes>
           <Route path='/' element={<Home/>} />
-          <Route path='/holidays' element={<h1>Holidays</h1>} />
+          <Route path='/holidays' element={<AllHolidays/>} />
         </Routes>
-
       </div>
     </BrowserRouter>
   );
 }
 
 export default App;
+
+// AllHolidays, DetailedHoliday, AddHoliday, EditHoliday

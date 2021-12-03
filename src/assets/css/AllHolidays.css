@@ -1,0 +1,24 @@
+.AllHolidays {
+    background-color: #fff;
+    border-left: 1px solid #a3a3a3;
+    border-right: 1px solid #a3a3a3;
+}
+
+.AllHolidays__buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.4rem 0;
+    background-color: yellow;
+}
+
+.AllHolidays__buttons .btn {
+    min-width: 90px;
+    margin: 0.2rem;
+}
+
+.AllHolidays__places {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20;
+}
